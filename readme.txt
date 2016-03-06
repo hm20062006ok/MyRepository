@@ -4,3 +4,4 @@ git has mutable index called stage
 git tracks changes
 git diffrences
 git checkout
+git checkout again
